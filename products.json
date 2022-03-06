@@ -1,0 +1,26 @@
+[
+    {
+        "id": "price_1KaCZeSGuGr51uAvsaGcsVIG",
+        "title": "Drone",
+        "description": "To be continued",
+        "image": "/images/d1.jpeg",
+        "price": 40000
+    },
+
+     {
+         "id": "price_1KaCokSGuGr51uAvMEQ8I9wS",
+        "title": "Remote Controller",
+        "description": "To be continued",
+        "image": "/images/d2.jpg",
+        "price": 20000
+    },
+
+    {
+        "id": "price_1KaCpCSGuGr51uAv6ECh4YWI",
+        "title": "Glasses",
+        "description": "To be continued",
+        "image": "/images/d2.jpg",
+        "price": 8000
+    }
+
+]
